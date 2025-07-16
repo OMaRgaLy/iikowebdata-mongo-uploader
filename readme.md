@@ -1,4 +1,3 @@
-```markdown
 # iikowebdata-mongo-updater
 
 Утилита `iikowebdata-mongo-updater` загружает данные "iiko web" из заранее сгенерированного JSON в ваши документы MongoDB по URI
@@ -83,6 +82,4 @@ go build -o iikowebdata-mongo-updater main.go
 ```
 
 ## 📝 Лицензия
-
-MIT License  
-```
+MIT License 
